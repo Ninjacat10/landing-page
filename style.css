@@ -1,0 +1,83 @@
+.header-logo {
+    background-color: #1F2937;
+    color: #FFFFFF;
+    display:flex;
+}
+.header-link {
+    background-color: #1F2937;
+    color: #ffffff;
+    text-decoration: none;
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.this-website-is-awesome {
+    color: #FBBF24;
+    font-weight: bold;
+}
+.this-website-has-some-subtext {
+    color: #9CA3AF;
+    font-style: italic;
+}
+.sign-up {
+    background-color: #2563EB;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.some-random-information {
+    background-color: #F3F4F6;
+    padding: 20px;
+    border-radius: 10px;
+}
+.points {
+    color: #10B981;
+    font-weight: bold;
+}
+.quote {
+    background-color: #E5E7EB;
+    padding: 20px;
+    border-radius: 10px;
+}
+.quote-text {
+    color: #374151;
+    font-style: italic;
+}
+.quote-author {
+    color: #374151;
+    font-weight: bold;
+}
+.call-to-action {
+    background-color: #FBBF24;
+    color: #1F2937;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+.call-to-action-text {
+    color: #1F2937;
+    font-weight: bold;
+}
+.call-to-action-subtext {
+    color: #6B7280;
+    font-style: italic;
+}
+.call-to-action-button {
+    background-color: #2563EB;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.copyright {
+    color: #FFFFFF;
+    text-align: center;
+}
